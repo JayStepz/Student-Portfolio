@@ -1,0 +1,6 @@
+h1, h3 {color:blue}
+img {display: block; height: 200px; width: 200px}
+.yellow {background-color: rgba(255, 255, 0, 0.623)}
+#email {background-color:goldenrod}
+#github {background-color:lightblue}
+#portfolio {background-color:orange}
